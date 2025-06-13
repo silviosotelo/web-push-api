@@ -110,3 +110,171 @@
 {"level":"info","message":"Notification sent successfully to subscription 51","timestamp":"2025-04-04T12:28:11.016Z"}
 {"level":"info","message":"Saved subscription with ID: 52","timestamp":"2025-04-04T12:28:11.028Z"}
 {"level":"info","message":"Notification sent successfully to subscription 52","timestamp":"2025-04-04T12:28:11.224Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:48:57.392Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:48:57.501Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:48:57.501Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:48:57.502Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:48:57.502Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:48:57.503Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:49:07.977Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:49:08.055Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:49:08.056Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:49:08.056Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:49:08.056Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:49:08.057Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:49:18.490Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:49:18.572Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:49:18.573Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:49:18.573Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:49:18.573Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:49:18.575Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:49:20.450Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:49:20.526Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:49:20.526Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:49:20.526Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:49:20.526Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:49:20.528Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:49:28.986Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:49:29.064Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:49:29.064Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:49:29.064Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:49:29.064Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:49:29.066Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:49:39.482Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:49:39.558Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:49:39.558Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:49:39.558Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:49:39.559Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:49:39.560Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:49:49.968Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:49:50.045Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:49:50.045Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:49:50.046Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:49:50.046Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:49:50.047Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:50:00.471Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:50:00.551Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:50:00.551Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:50:00.551Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:50:00.551Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:50:00.553Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:50:10.972Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:50:11.053Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:50:11.053Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:50:11.053Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:50:11.054Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:50:11.055Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:50:21.470Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:50:21.548Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:50:21.548Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:50:21.549Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:50:21.549Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:50:21.550Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:50:31.966Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:50:32.045Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:50:32.045Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:50:32.045Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:50:32.046Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:50:32.047Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:50:42.507Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:50:42.586Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:50:42.586Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:50:42.586Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:50:42.587Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:50:42.588Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:50:52.980Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:50:53.059Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:50:53.059Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:50:53.060Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:50:53.060Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:50:53.061Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:51:03.480Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:51:03.564Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:51:03.564Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:51:03.565Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:51:03.565Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:51:03.566Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:51:13.974Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:51:14.051Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:51:14.051Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:51:14.052Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:51:14.052Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:51:14.053Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2025-06-13T11:51:27.268Z"}
+{"level":"info","message":"Database tables and indexes created successfully","timestamp":"2025-06-13T11:51:27.548Z"}
+{"level":"info","message":"🚀 Mobile Push Notification Service running on port 9500","timestamp":"2025-06-13T11:51:27.628Z"}
+{"level":"info","message":"📱 Service URL: http://localhost:9500","timestamp":"2025-06-13T11:51:27.628Z"}
+{"level":"info","message":"📋 API Info: http://localhost:9500/api/info","timestamp":"2025-06-13T11:51:27.628Z"}
+{"level":"info","message":"💓 Health Check: http://localhost:9500/health","timestamp":"2025-06-13T11:51:27.629Z"}
+{"level":"info","message":"Connected to SQLite database","timestamp":"2025-06-13T11:51:27.630Z"}
+{"level":"info","message":"GET /health/db - 192.168.46.49","timestamp":"2025-06-13T11:51:41.141Z"}
+{"level":"info","message":"GET /favicon.ico - 192.168.46.49","timestamp":"2025-06-13T11:51:41.617Z"}
+{"level":"info","message":"GET /health - 192.168.46.49","timestamp":"2025-06-13T11:51:44.535Z"}
+{"level":"info","message":"GET /api/info - 192.168.46.49","timestamp":"2025-06-13T11:52:00.889Z"}
+{"level":"info","message":"GET /api/notificaciones/health - 192.168.46.49","timestamp":"2025-06-13T11:52:40.234Z"}
+{"level":"info","message":"GET / - 192.168.46.49","timestamp":"2025-06-13T11:59:56.978Z"}
+{"level":"info","message":"GET /api/notificaciones/health - 192.168.41.209","timestamp":"2025-06-13T12:00:54.483Z"}
+{"level":"info","message":"POST /api/usuarios/registrarTokenAlt - 192.168.41.209","timestamp":"2025-06-13T12:01:28.546Z"}
+{"level":"info","message":"Device registered successfully: 6420056C-85A3-4F6D-82F0-A94875231D9A_ios_25d5a4e86c95b8d71ce44d83c103bcef_1749816087378","timestamp":"2025-06-13T12:01:28.559Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:01:33.724Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:01:49.100Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:01:49.108Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:01:58.723Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:01:58.877Z"}
+{"level":"info","message":"Notification 1 marked as read","timestamp":"2025-06-13T12:01:58.882Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:02:45.369Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:03:03.803Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:03:03.811Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:03:10.363Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:03:10.411Z"}
+{"level":"info","message":"Notification 2 marked as read","timestamp":"2025-06-13T12:03:10.418Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:03:41.107Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:04:10.368Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:04:40.362Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:05:10.353Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:05:40.369Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:06:10.357Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:06:40.361Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:07:10.357Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:07:40.358Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:08:10.664Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:08:40.352Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:09:10.354Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:09:40.354Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:10:10.354Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:10:40.352Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:11:00.592Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:11:00.600Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:11:10.577Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:11:10.625Z"}
+{"level":"info","message":"Notification 3 marked as read","timestamp":"2025-06-13T12:11:10.631Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:11:40.360Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:12:10.360Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:12:33.158Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:12:33.165Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:12:40.424Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:12:40.577Z"}
+{"level":"info","message":"Notification 4 marked as read","timestamp":"2025-06-13T12:12:40.583Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:12:44.722Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:12:44.728Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:13:23.706Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:13:23.751Z"}
+{"level":"info","message":"Notification 5 marked as read","timestamp":"2025-06-13T12:13:23.755Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:13:48.702Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:14:01.992Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:14:01.999Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:14:46.289Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:14:46.334Z"}
+{"level":"info","message":"Notification 6 marked as read","timestamp":"2025-06-13T12:14:46.341Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:50:16.558Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:51:30.103Z"}
+{"level":"info","message":"POST /api/usuarios/registrarTokenAlt - 192.168.41.209","timestamp":"2025-06-13T12:52:52.851Z"}
+{"level":"info","message":"Device registered successfully: 6420056C-85A3-4F6D-82F0-A94875231D9A_ios_25d5a4e86c95b8d71ce44d83c103bcef_1749819171675","timestamp":"2025-06-13T12:52:52.857Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:52:58.073Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:53:14.739Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:53:14.748Z"}
+{"level":"info","message":"GET /api/notificaciones/pendientes - 192.168.41.209","timestamp":"2025-06-13T12:53:23.078Z"}
+{"level":"info","message":"POST /api/notificaciones/marcar-leida - 192.168.41.209","timestamp":"2025-06-13T12:53:23.216Z"}
+{"level":"info","message":"Notification 7 marked as read","timestamp":"2025-06-13T12:53:23.222Z"}
+{"level":"info","message":"POST /api/notificaciones/enviar - 192.168.41.209","timestamp":"2025-06-13T12:54:02.654Z"}
+{"level":"info","message":"Notification created with ID: undefined","timestamp":"2025-06-13T12:54:02.659Z"}
